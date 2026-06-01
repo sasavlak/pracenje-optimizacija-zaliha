@@ -22,6 +22,7 @@ Potrebni paketi u R:
 - shinyjs
 
 Pokretanje lokalno u R:
+
 shiny::runApp("app.R")
 
 Online aplikacija:
