@@ -14,14 +14,15 @@ Funkcionalnosti
 
 Pokretanje
 
-Potrebni paketi:
+Potrebni paketi u R:
 
 - shiny
 - DT
 - ggplot2
 - shinyjs
 
-Pokretanje:
-
-```r
+Pokretanje lokalno u R:
 shiny::runApp("app.R")
+
+Online aplikacija:
+https://svlak.shinyapps.io/pracenje-optimizacija-zaliha/
