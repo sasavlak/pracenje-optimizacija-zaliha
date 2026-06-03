@@ -1,5 +1,5 @@
-# Aplikacija za praćenje i optimizaciju zaliha
 # Inventory Tracking and Optimization Application Using the Shiny Web Application
+# Aplikacija za praćenje i optimizaciju zaliha
 
 Projekt izrađen u programskom jeziku R koristeći Shiny framework.
 
