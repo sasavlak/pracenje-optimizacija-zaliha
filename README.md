@@ -16,6 +16,7 @@ Funkcionalnosti
 - Grafički prikaz stanja zaliha
 - EOQ (Economic Order Quantity) optimizacija
 - Spremanje i učitavanje podataka u CSV
+- Šifra za administraciju: 1234
 
 Pokretanje
 
